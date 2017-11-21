@@ -1,0 +1,41 @@
+[33mcommit 753655210b5c802335ac4e97afcbc6163966bddb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Mon Nov 20 21:12:54 2017 +0330
+
+    posts create with dynamic categories
+
+[33mcommit f6c20179d97028a31602f91a50a375ac3a8ca368[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 23:12:23 2017 +0330
+
+    finish first step in app
+
+[33mcommit 2f265aba29386741fc32d62e12888d63a076ea92[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 22:11:35 2017 +0330
+
+    users section update finish - except security
+
+[33mcommit b866cb94accca0a25a09103416c5b6b55031898a[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 20:44:35 2017 +0330
+
+     users with photo uploading feature
+
+[33mcommit 558c6640a2c095d72b6c19a73faf2e8c074b85c2[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 20:10:20 2017 +0330
+
+    users page working without photos
+
+[33mcommit 7a0c856c77542caaafc48f0a350cabc465f0682b[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 15:52:30 2017 +0330
+
+    admin masterpage set up
+
+[33mcommit 7f6d60084228d2132a560aa836c124d962f83c7f[m
+Author: Nickan <Nickan.bagherpour@gmail.com>
+Date:   Sun Nov 19 10:54:16 2017 +0330
+
+    my first commit - views - admin views
