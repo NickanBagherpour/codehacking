@@ -1,4 +1,13 @@
 #admin-page {
-  padding-top: 0px; }
+  padding-top: 0; }
+
+.nested-comment {
+  margin-top: 60px; }
+
+.comment-reply {
+  display: none; }
+
+.toggle-reply {
+  background-color: red; }
 
 /*# sourceMappingURL=app.css.map */
